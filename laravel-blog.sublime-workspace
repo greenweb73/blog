@@ -1,0 +1,297 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Со",
+				"Сколько"
+			],
+			[
+				"lo",
+				"log"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"uk-f",
+				"uk-form-large \tUIkit class"
+			],
+			[
+				"uk-ma",
+				"uk-margin-large \tUIkit class"
+			],
+			[
+				"uk-",
+				"uk-button \tUIkit class"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"uk-c",
+				"uk-container \tUIkit class"
+			],
+			[
+				"uk-l",
+				"uk-list \tUIkit class"
+			],
+			[
+				"c",
+				"class\tAttr"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"i",
+				"id\tAttr"
+			],
+			[
+				"va",
+				"var_dump"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"s",
+				"script\tTag"
+			],
+			[
+				"st",
+				"style\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "i",
+		"selected_items":
+		[
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"e",
+				"Set Syntax: HTML"
+			],
+			[
+				"insta",
+				"Install Package Control"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/OpenServer/domains/blog"
+	],
+	"file_history":
+	[
+		"/D/Projects/ProBC/Dev/robots.txt",
+		"/D/Themes/Opencart/Modules/minimum_order_1.8/minimum_order.1.8.ocmod.xml",
+		"/D/OpenServer/domains/quest-book/media/foundry/3.1/config/d315ecc3779df070c37f8b837c760481.json",
+		"/D/OpenServer/domains/quest-book/media/foundry/3.1/config/d41b2370cc5051a1d57dddf3f6793660.json",
+		"/D/OpenServer/domains/quest-book/media/foundry/3.1/config/d41b2370cc5051a1d57dddf3f6793660.js",
+		"/D/OpenServer/domains/quest-book/media/foundry/3.1/config/d315ecc3779df070c37f8b837c760481.js",
+		"/D/Themes/Opencart/Modules/catalog/catalog/controller/product/product.php",
+		"/D/OpenServer/domains/quest-book/qbhelper/presend.php",
+		"/D/OpenServer/domains/new.e-in.com.ua/wp-content/themes/yootheme/templates/menu/navbar.php",
+		"/D/OpenServer/domains/new.e-in.com.ua/wp-content/themes/yootheme/templates/menu/nav.php",
+		"/D/OpenServer/domains/new.e-in.com.ua/wp-content/themes/yootheme/templates/menu/menu.php",
+		"/D/OpenServer/domains/new.e-in.com.ua/wp-content/themes/yootheme/header.php",
+		"/D/Projects/Инжиниринг/Dev/temp/__e-in.com.ua",
+		"/D/OpenServer/domains/quest-animation/index — копия.html",
+		"/D/OpenServer/domains/quest-animation/test.php",
+		"/D/Projects/QuestBook/Images/composition.svg",
+		"/D/Projects/QuestBook/Images/composition-compress.svg",
+		"/D/Projects/QuestBook/Images/Как это работает_вектор.svg",
+		"/D/Projects/Инжиниринг/Dev/temp/new.e-in.com.ua",
+		"/D/Projects/Инжиниринг/Dev/temp/apache2.conf",
+		"/D/Projects/Инжиниринг/Dev/temp/nginx.conf",
+		"/C/Users/Coder/AppData/Local/Temp/fz3temp-2/.htaccess",
+		"/D/Projects/Factor-R/Vema/.htaccess",
+		"/D/Projects/Cher-Nika/Dev/___23.09.htaccess",
+		"/D/Projects/Factor-R/DevZone/VEMA/homedir/vemakids.com.ua/.htaccess",
+		"/D/Projects/Factor-R/DevZone/newsite/dev.factor/catalog/view/theme/Demo3/template/common/fheader-28-09.tpl",
+		"/D/Projects/Factor-R/DevZone/newsite/dev.factor/catalog/view/theme/Demo3/template/common/fheader.tpl",
+		"/D/Projects/Инжиниринг/Dev/svgtest/beta1-2",
+		"/D/Projects/Инжиниринг/Dev/svgtest/test3.html",
+		"/D/Projects/Инжиниринг/Dev/svgtest/index3.html",
+		"/D/Projects/Инжиниринг/Dev/svgtest/indexscroll.html",
+		"/D/Projects/Инжиниринг/Dev/svgtest/test.html",
+		"/D/Projects/Инжиниринг/Dev/svgtest/js/main.js",
+		"/D/Projects/Инжиниринг/Dev/svgtest/js/walkway.js",
+		"/D/Projects/Инжиниринг/Dev/svgtest/css/style.css",
+		"/D/Projects/Инжиниринг/Dev/svgtest/js/example.js",
+		"/D/Projects/Инжиниринг/Dev/svgtest/html6.html",
+		"/D/Projects/Инжиниринг/Dev/svgtest/html6",
+		"/C/Users/Coder/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 158.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 66.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "laravel-blog.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 296.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
